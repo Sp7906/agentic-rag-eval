@@ -1,0 +1,17 @@
+{"id":"q01","question":"How many days of annual leave do I get?","answerable":true,"expected_source":"leave-policy","expected_phrases":["24 days"]}
+{"id":"q02","question":"Can unused vacation days be carried over?","answerable":true,"expected_source":"leave-policy","expected_phrases":["10 days"]}
+{"id":"q03","question":"How long is parental leave for the primary caregiver?","answerable":true,"expected_source":"leave-policy","expected_phrases":["16 weeks"]}
+{"id":"q04","question":"Which days am I required to be in the office?","answerable":true,"expected_source":"remote-work","expected_phrases":["Tuesday"]}
+{"id":"q05","question":"How much is the home office stipend?","answerable":true,"expected_source":"remote-work","expected_phrases":["20,000"]}
+{"id":"q06","question":"What is the deadline to submit an expense claim?","answerable":true,"expected_source":"expenses","expected_phrases":["30 days"]}
+{"id":"q07","question":"What's the daily meal limit when travelling?","answerable":true,"expected_source":"travel","expected_phrases":["1,500"]}
+{"id":"q08","question":"How long must my password be?","answerable":true,"expected_source":"security","expected_phrases":["14 characters"]}
+{"id":"q09","question":"Who do I notify if my laptop is stolen?","answerable":true,"expected_source":"security","expected_phrases":["security@northwind.example","1 hour"]}
+{"id":"q10","question":"How often are performance reviews held?","answerable":true,"expected_source":"performance","expected_phrases":["twice a year"]}
+{"id":"q11","question":"Is there a budget for courses and certifications?","answerable":true,"expected_source":"performance","expected_phrases":["50,000"]}
+{"id":"q12","question":"What is the hotel cap per night in metro cities?","answerable":true,"expected_source":"travel","expected_phrases":["8,000"]}
+{"id":"q13","question":"How quickly does IT respond to a critical ticket?","answerable":true,"expected_source":"it-support","expected_phrases":["1 hour"]}
+{"id":"q14","question":"How long is the probation period?","answerable":true,"expected_source":"onboarding","expected_phrases":["6 months"]}
+{"id":"u01","question":"What is the company's stock ticker symbol?","answerable":false}
+{"id":"u02","question":"Does the company provide free lunch in the cafeteria?","answerable":false}
+{"id":"u03","question":"What is the CEO's salary?","answerable":false}
