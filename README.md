@@ -38,7 +38,7 @@ cd backend
 python -m pytest -q                  # unit tests + quality gate
 python -m evals.run_eval --offline   # prints metrics, writes evals/report.md
 ```
-Offline results on the bundled 17-question set (14 answerable, 3 not in the handbook):
+Offline results on the bundled 27-question set (22 answerable, 5 not in the handbook):
 
 | Metric | Result | Gate |
 |---|---|---|

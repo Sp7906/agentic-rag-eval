@@ -4,7 +4,8 @@ import re
 STOP = set("""a an the of to in on at by with from for and or if it its is are am was were be been
 i my me we our you your they their this that these those there any some
 how what which who when where why many much long often quickly
-can could should will would must do does did get gets per after before s""".split())
+can could should will would must do does did get gets per after before s
+under about into between than""".split())
 
 # Domain synonyms: query word -> words the corpus may use instead.
 _SYN_RAW = {
